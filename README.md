@@ -1,1 +1,2 @@
-# Recipes | Sam Mikell
+# Recipes
+by Sam Mikell
