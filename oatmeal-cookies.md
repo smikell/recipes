@@ -3,19 +3,6 @@
 ### Full batch makes 18-21 cookies
 
 ## Ingredients
-
-<input type="checkbox" id="i0" name="butter" value="1C">
-<label for="i0"> Butter: 1 C</label></br>
-
-<input type="checkbox" id="i1" name="b-sugar" value="1C">
-<label for="i1"> Brown Sugar: 1 C</label></br>
-
-<input type="checkbox" id="i2" name="w-sugar" value="1C">
-<label for="i1"> White Sugar: 1 C</label></br>
-
-<input type="checkbox" id="i3" name="egg" value="2W">
-<label for="i1"> Egg: 2 whole</label></br>
-
 - [ ] Butter: 1 C
 - [ ] Brown Sugar: 1 C
 - [ ] White Sugar: 1 C
