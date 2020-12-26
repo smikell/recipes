@@ -10,7 +10,7 @@
 - [ ] Vanilla: 1 tsp
 - [ ] Flour: 2 C
 - [ ] Salt: 1 tsp
-- [ ] Baking Soda: 1.5 tsp
+- [ ] Baking Soda: 1 tsp
 - [ ] Cinnamon: 1 tsp
 - [ ] Oatmeal: 2 - 2.5 C
 - [ ] Chocolate Chips: 2 C
